@@ -1,0 +1,7 @@
+pour lancer le scrapping : cela génère 4 fichiers .csv et .json remplis avec les données 
+scrapy crawl carrefour_smartphones 
+scrapy crawl carrefour_cuisine 
+
+pour nettoyer : cela génère 2 fichiers .csv contenant des données nettoyées 
+python nettoyage\clean_csv.py carrefour_smartphones.csv carrefour_smartphones_clean.csv --expected-category "Smartphones et Objets connectés"
+python clean_csv.py carrefour_cuisine.csv carrefour_cuisine_clean.csv --expected-category "Cuisine"

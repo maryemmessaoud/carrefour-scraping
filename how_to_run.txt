@@ -1,7 +1,17 @@
-pour lancer le scrapping : cela génère 4 fichiers .csv et .json remplis avec les données 
-scrapy crawl carrefour_smartphones 
-scrapy crawl carrefour_cuisine 
+pour lancer le scrapping : cela génère les fichiers .csv 
+\carrefour_project\spiders 
 
-pour nettoyer : cela génère 2 fichiers .csv contenant des données nettoyées 
-python nettoyage\clean_csv.py carrefour_smartphones.csv carrefour_smartphones_clean.csv --expected-category "Smartphones et Objets connectés"
+scrapy crawl carrefour_smartphones -o carrefour_smartphones.csv
+scrapy crawl carrefour_cuisine -o carrefour_cuisine.csv
+scrapy crawl carrefour_jardin -O carrefour_jardin.csv
+scrapy crawl carrefour_beaute_sante -O carrefour_beaute_sante.csv
+scrapy crawl carrefour_livres -O carrefour_livres.csv
+
+pour nettoyer : cela génère les fichiers .csv contenant des données nettoyées 
+\carrefour_project\nettoyage
+
+python clean_csv.py carrefour_smartphones.csv carrefour_smartphones_clean.csv --expected-category "Smartphones et Objets connectés"
 python clean_csv.py carrefour_cuisine.csv carrefour_cuisine_clean.csv --expected-category "Cuisine"
+python clean_csv.py carrefour_jardin.csv carrefour_jardin_clean.csv --expected-category "Jardin"
+python clean_csv.py carrefour_beaute_sante.csv carrefour_beaute_sante_clean.csv --expected-category "Beauté et Santé"
+python clean_csv.py carrefour_livres.csv carrefour_livres_clean.csv --expected-category "Livres et Culture"

@@ -1,281 +1,283 @@
-ean,title,brand,category,price,promo_price,available,scraped_at,source_file
-8004399334823,Machine à expresso avec broyeur ECAM13.123B DELONGHI,DELONGHI,Cuisine,499.99,279.99,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-0622356317634,Friteuse sans huile Airfryer en verre FN101EUSG Crispi NINJA,NINJA,Cuisine,179.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-4242005472017,Machine à café Tassimo T11 style vanille - TAS117E BOSCH,BOSCH,Cuisine,79.99,34.99,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3045387211295,Multicuiseur Cookeo 8 en 1 - CE952AF0 MOULINEX,MOULINEX,Cuisine,199.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3617702318981,Micro-ondes 17L - SMO17LG-26 SIMPL,SIMPL,Cuisine,59.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3016661180484,Machine à glaces Dolci MJ602AF0 MOULINEX,MOULINEX,Cuisine,229.99,149.99,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-8710103871644,Machine à expresso à dosette L'Or Barista LM8012/60 PHILIPS,PHILIPS,Cuisine,84.99,64.99,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-8720389032097,Machine à expresso Broyeur à grains Barista - BAR300/60 - Noir PHILIPS,PHILIPS,Cuisine,269.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3045386380091,Cafetière filtre Soleil FG381A10 Ivoire MOULINEX,MOULINEX,Cuisine,34.99,27.99,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3045387290573,Cafetière filtre Morning FG2M0810 MOULINEX,MOULINEX,Cuisine,34.99,31.99,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3700342443721,Cafetière à dosette Dolce Gusto Piccolo XS YY4395FD KRUPS,KRUPS,Cuisine,59.99,29.99,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-4006508218783,Cafetière filtre isotherme Noir Easy Therm 1023-06 MELITTA,MELITTA,Cuisine,37.99,32.99,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-8004399027039,Machine à expresso avec broyeur Magnifica Evo ECAM290.51.B DELONGHI,DELONGHI,Cuisine,599.99,399.99,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-8004399325326,Machine à expresso à broyeur ECAM 22.140B MAGNIFICA S DELONGHI,DELONGHI,Cuisine,399.99,299.99,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-8004399327924,Machine à expresso à dosette Nespresso Noir Inissia EN 80.B DELONGHI,DELONGHI,Cuisine,89.99,79.99,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-8004399331457,Machine à expresso avec broyeur FEB3535.SB DELONGHI,DELONGHI,Cuisine,549.99,469.99,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-8710103894629,Expresso broyeur EP1224/00 Machine à café à grain Gris brossé avec mousseur à lait Série 1200 PHILIPS PHILIPS,PHILIPS,Cuisine,289.99,269.99,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-0622356232715,"Friteuse sans huile Airfryer 5,2 L AF160EU NINJA",NINJA,Cuisine,129.99,79.99,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3045380025837,"Friteuse sans huile 8,3 L EZ901N20 MOULINEX",MOULINEX,Cuisine,179.99,99.99,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3045386380114,Bouilloire sans fil BY320A Soleil Ivoire MOULINEX,MOULINEX,Cuisine,31.99,27.99,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3700902208531,Micro-ondes 30L MEDE3OUX MEDEK,MEDEK,Cuisine,129.99,79.99,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-4242002770840,Hachoir à viande Pro Power argent BOSCH,BOSCH,Cuisine,129.99,109.99,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3700342475333,Machine à expresso à dosette Nespresso Pixie Titane YY5290FD KRUPS,KRUPS,Cuisine,149.99,109.99,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-8720389014604,Machine à expresso à dosette L'Or Barista LM8012 65 noire PHILIPS,PHILIPS,Cuisine,84.99,64.99,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-8720389016431,Machine à expresso avec broyeur Noir EP0820/00 PHILIPS,PHILIPS,Cuisine,329.99,279.99,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3168430360198,"Appareil à raclette, plancha, crêpière 6 personnes Richesmonts RE12R810 TEFAL",TEFAL,Cuisine,59.99,49.99,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-0622356294072,Machine à granité Slushi FS301EU NINJA,NINJA,Cuisine,299.99,199.99,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3045380021051,Machine à bière - VB450E10 KRUPS,KRUPS,Cuisine,199.99,149.99,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3045386380084,Grille-pain Soleil LT300A10 Blanc MOULINEX,MOULINEX,Cuisine,34.99,27.99,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-7290119793945,Machine à eau pétillante Terra noire avec bouteille noire fleurs violettes SODASTREAM,SODASTREAM,Cuisine,69.99,49.99,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3187578029361,Machine à expresso à dosette EOH Noir MALONGO,MALONGO,Cuisine,119.99,79.99,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3508510198714,Robot pâtissier FG5278CR FAGOR,FAGOR,Cuisine,129.99,79.99,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-5413184202712,Robot pâtissier Noir Classic 5K45SSEOB KITCHENAID,KITCHENAID,Cuisine,399.99,299.99,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3700902209811,Machine à gazéifier MDSO198 MEDEK,MEDEK,Cuisine,59.99,39.99,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-4242005099009,Mixeur plongeant - MSMP1000 - Blanc BOSCH,BOSCH,Cuisine,24.99,16.99,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-8006447000209,Blender NutriBullet Combo NBF500DG NUTRIBULLET,NUTRIBULLET,Cuisine,129.99,109.99,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-8021098005076,Mixeur Plongeant MQ30201M BRAUN,BRAUN,Cuisine,59.99,34.99,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3256391052235,"Bouilloire Daisy 2,5L Acier Emaillé MENASTYL",MENASTYL,Cuisine,34.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3616958830612,Friteuse Airfryer 9 L HAF9L1800-25 CARREFOUR HOME,CARREFOUR HOME,Cuisine,39.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3616958791067,"Blender 1,75L 1300w HBL1300-25 CARREFOUR HOME",CARREFOUR HOME,Cuisine,39.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3616958831015,Hachoir à viande HMG600-25 CARREFOUR HOME,CARREFOUR HOME,Cuisine,39.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3616958831756,Grille-pain HT800-25 CARREFOUR HOME,CARREFOUR HOME,Cuisine,27.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-4744131013831,Carafe filtrante en plastique - HJUG-24 CARREFOUR HOME,CARREFOUR HOME,Cuisine,12.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3617702336855,Friteuse sans huile Airfryer 11L HAF11LDS3000-26 CARREFOUR HOME,CARREFOUR HOME,Cuisine,49.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3616958792781,Micro-ondes gril 22L HMF23DW-25 CARREFOUR HOME,CARREFOUR HOME,Cuisine,99.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3616958808116,Réchaud plaque céramique 2 feux HHP2500-2 CARREFOUR HOME,CARREFOUR HOME,Cuisine,39.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3616958792743,Micro-ondes 20L HMOR20WC-25 CARREFOUR HOME,CARREFOUR HOME,Cuisine,79.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3616958831053,Mini-four 36L Noir CARREFOUR HOME,CARREFOUR HOME,Cuisine,89.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3616959366882,Micro-ondes 23L HMG23LDFM-25 CARREFOUR HOME,CARREFOUR HOME,Cuisine,99.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3616959381670,Four à pizza HPO12-25 CARREFOUR HOME,CARREFOUR HOME,Cuisine,149.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-6430052003331,Machine à eau pétillante - Noir,,Cuisine,49.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3616958831732,Moulin à café HCG2013B-25 CARREFOUR HOME,CARREFOUR HOME,Cuisine,12.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3616958831749,Cafetière à filtre HCM6011T-25 CARREFOUR HOME,CARREFOUR HOME,Cuisine,34.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3616958835372,Cafetière à filtre HCM650-25 CARREFOUR HOME,CARREFOUR HOME,Cuisine,19.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3616958835389,Cafetière à filtre HCMP800-25 CARREFOUR HOME,CARREFOUR HOME,Cuisine,19.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3616958837406,Cafetière à filtre HCM800T-25 CARREFOUR HOME,CARREFOUR HOME,Cuisine,25.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3616959391266,Machine à expresso 20 Bar HEC1100PRCS-25 Beige CARREFOUR HOME,CARREFOUR HOME,Cuisine,79.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3617702360430,Machine à expresso HCM1450SS-26 CARREFOUR HOME,CARREFOUR HOME,Cuisine,89.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3480852100108,Réchaud sur cartouche 1 feu CARREFOUR,CARREFOUR,Cuisine,17.49,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3480852451002,Réchaud d'appoint de table 1 feu CARREFOUR,CARREFOUR,Cuisine,24.49,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3480853401105,Réchaud 2 feux avec dosseret CARREFOUR,CARREFOUR,Cuisine,54.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3616958785677,Plaque à induction à double foyer HIC3400N-25 Noir CARREFOUR HOME,CARREFOUR HOME,Cuisine,99.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3616958802015,Cuiseur à oeufs HEB365-25 CARREFOUR HOME,CARREFOUR HOME,Cuisine,17.0,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3616958808123,Plaque à induction HIC2000-25 CARREFOUR HOME,CARREFOUR HOME,Cuisine,49.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3616958808130,Gaufrier HSWM1400-25 CARREFOUR HOME,CARREFOUR HOME,Cuisine,49.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3616958817859,"Appareil à gauffres, sandwichs, paninis HSWPM800-25 CARREFOUR HOME",CARREFOUR HOME,Cuisine,35.4,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3616959366578,"Friteuse sans huile Airfryer 2,8L HAF3L1400-25 CARREFOUR HOME",CARREFOUR HOME,Cuisine,29.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3616959381434,Friteuse Classique - HDF258-25 CARREFOUR HOME,CARREFOUR HOME,Cuisine,29.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3617702060361,Appareil à raclette HRG8P1200-25 CARREFOUR HOME,CARREFOUR HOME,Cuisine,39.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3617702336930,"Friteuse sans huile AirFryer 4,5L - HAF5LV1500-26 CARREFOUR HOME",CARREFOUR HOME,Cuisine,49.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3617702340623,Friteuse à huile 5L - HDF50B-26,,Cuisine,59.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3617702508559,"Friteuse sans huile AirFryer 4,5L - HAF5LV1500GB-26 CARREFOUR HOME",CARREFOUR HOME,Cuisine,49.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3616958825236,Robot multifonction HFP1000-25 CARREFOUR HOME,CARREFOUR HOME,Cuisine,59.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3616959380987,Robot pâtissier noir HSM1300BH-25 CARREFOUR HOME,CARREFOUR HOME,Cuisine,79.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3616953077432,Mousseur à lait électrique CARREFOUR HOME,CARREFOUR HOME,Cuisine,9.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3616958302423,Balance Electronique Inox CARREFOUR HOME,CARREFOUR HOME,Cuisine,9.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3616958785783,Machine mise sous vide HVS100-25 CARREFOUR HOME,CARREFOUR HOME,Cuisine,39.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3616958790893,Blender HSB3202B-25 CARREFOUR HOM,CARREFOUR HOME,Cuisine,19.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3616958795102,Bouilloire électrique HWK17S-25 CARREFOUR HOME,CARREFOUR HOME,Cuisine,19.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3616958797465,Grille Pain HLT1400S-25 CARREFOUR HOME,CARREFOUR HOME,Cuisine,29.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3616958817309,Rapeur électrique HEK120-25 CARREFOUR HOME,CARREFOUR HOME,Cuisine,19.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3616958817545,Mixeur plongeant HHB800-25 CARREFOUR HOME,CARREFOUR HOME,Cuisine,19.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3616958825229,Blender HBL800-25 CARREFOUR HOME,CARREFOUR HOME,Cuisine,29.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3616958830636,Micro-ondes 20L HMO20LDM-25 CARREFOUR HOME,CARREFOUR HOME,Cuisine,79.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3616958830919,Presse agrume HCJ130-25 CARREFOUR HOME,CARREFOUR HOME,Cuisine,29.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3616958835426,Bouilloire électrique HWK650-25 CARREFOUR HOME,CARREFOUR HOME,Cuisine,14.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3616958835440,Bouilloire électrique HWKP17-25 CARREFOUR HOME,CARREFOUR HOME,Cuisine,15.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3616958835877,Mixeur plongeant HHBS800-25 + accessoires CARREFOUR HOME,CARREFOUR HOME,Cuisine,29.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3616958837413,Crêpière électrique HCP380STB-25 CARREFOUR HOME,CARREFOUR HOME,Cuisine,59.9,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3616959349830,Mini-hachoir HMC5002-25 CARREFOUR HOME,CARREFOUR HOME,Cuisine,18.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3616959349984,Blender chauffant HSM16L-25 CARREFOUR HOM,CARREFOUR HOME,Cuisine,59.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3616959366325,Batteur électrique HHM300-25 CARREFOUR HOME,CARREFOUR HOME,Cuisine,19.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3616959366332,Blender HBL1400D-25 CARREFOUR HOME,CARREFOUR HOME,Cuisine,59.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3616959381441,Blender chauffant HHSB150B-25 CARREFOUR HOME,CARREFOUR HOME,Cuisine,69.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3617702089850,Blender portable HSB37PBGR-25 - Gris CARREFOUR HOME,CARREFOUR HOME,Cuisine,9.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3617702089867,Blender portable HSB37PBR-25 - Rouge CARREFOUR HOME,CARREFOUR HOME,Cuisine,9.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3617702089874,Blender portable HSB37PBB-25 - Bleu CARREFOUR HOME,CARREFOUR HOME,Cuisine,9.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3617702089881,Blender portable HSB37PBG-25 - Vert CARREFOUR HOME,CARREFOUR HOME,Cuisine,9.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3617702332710,Mini hachoir électrique - HMC50012L-26 CARREFOUR HOME,CARREFOUR HOME,Cuisine,18.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3760387480211,Machine à eau Pétillante - 580 Black - CARREFOUR,CARREFOUR,Cuisine,59.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3760387480488,Machine à gazéifier 1L - 580 Bleu CARREFOUR,CARREFOUR,Cuisine,59.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3045380402799,Friteuse sans huile Airfryer Easy Fry Dual 8L EZ901AF0 MOULINEX,MOULINEX,Cuisine,89.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3616953027864,Friteuse Airfryer BAF2L1150-23 BLUESKY,BLUESKY,Cuisine,39.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3700902206148,Friteuse Airfryer 6L RA610D MEDEK,MEDEK,Cuisine,49.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-8021098002297,Mixeur plongeant MQ10.00PWH BRAUN,BRAUN,Cuisine,29.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3700902207022,Machine à expresso à dosette Nespresso KM-C0518 MEDEK,MEDEK,Cuisine,54.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3616957675900,Friteuse Airfryer XXL MAF7L1800-24 MANDINE,MANDINE,Cuisine,49.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3616957680867,Friteuse Airfryer MAF6L1600-24 MANDINE,MANDINE,Cuisine,49.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3700902206926,"Friteuse Airfryer 4,5 L RA510D MEDEK",MEDEK,Cuisine,29.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3700902209361,"Friteuse sans huile Airfryer 2,2 L MD203 MEDEK",MEDEK,Cuisine,19.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3700902209408,"Friteuse sans huile Airfryer 8,2 L MD905A-SW MEDEK",MEDEK,Cuisine,69.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3770039334090,Machine à glaçons Portable MIV-120MAG MIVANO,MIVANO,Cuisine,59.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3700902207039,Machine à expresso à dosette Nespresso KM-C0518 Noire MEDEK,MEDEK,Cuisine,54.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3700902208890,"Friteuse Airfryer 2,2 L RA311D MEDEK",MEDEK,Cuisine,39.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-8720389032066,Machine à expresso Broyeur à grains - Barista - BAR300/00 - Blanc PHILIPS,PHILIPS,Cuisine,269.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3616958231853,Friteuse Airfryer 5 L MAF5L1300-24 MANDINE,MANDINE,Cuisine,49.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3700902206131,Friteuse Airfryer 6L RA610D MEDEK,MEDEK,Cuisine,49.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3700563200820,Bouilloire électrique En verre,,Cuisine,9.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-7290119793716,Machine à eau pétillante Terra Noire + 1 bouteille + 1 CO2 + 1 concentré Pepsi Zéro Sucres 440ml SODASTREAM,SODASTREAM,Cuisine,59.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-7290122642841,Machine à eau pétillante TERRA Blanche + 1 bouteille + 1 CO2 + 1 concentré 7Up 440ml SODASTREAM,SODASTREAM,Cuisine,59.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3045380019034,Cafetière filtre Noir Equinox CM520D10 TEFAL,TEFAL,Cuisine,69.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3045387296704,Cafetière filtre CM1M0GE0 TEFAL,TEFAL,Cuisine,34.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3219410082149,Cafetière italienne Melina Express Aluminium ROSSETTO,ROSSETTO,Cuisine,22.49,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3700342444322,Cafetière à dosette Dolce Gusto Genio S Plus Noir YY4445FD KRUPS,KRUPS,Cuisine,119.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3700342452105,Cafetière à dosette Nescafé Dolce Gusto YY5733FD KRUPS,KRUPS,Cuisine,109.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3700342452716,Machine à café à dosette Dolce Gusto YY5832FD KRUPS,KRUPS,Cuisine,79.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-4008146030550,Moulin à café et épices KM3879 SEVERIN,SEVERIN,Cuisine,28.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-4242005471980,Cafetière à dosette Tassimo Noire TAS112E BOSCH,BOSCH,Cuisine,44.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-4242005471997,Cafetière à dosette Tassimo style rouge TAS113E BOSCH,BOSCH,Cuisine,46.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-8004399025370,Machine à expresso à broyeur Noir ECAM 220.22.GB DELONGHI,DELONGHI,Cuisine,399.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-8004399332225,Machine à expresso Dedica EC695.M DELONGHI,DELONGHI,Cuisine,199.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-8710103968894,Cafetière à dosette Senseo CSA210/61 machine à café Original plus Noire PHILIPS,PHILIPS,Cuisine,79.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-8720389066429,Cafetière à dosette Senseo CSA210/81 machine à café Original plus Vert d'eau PHILIPS PHILIPS,PHILIPS,Cuisine,74.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-0810123673285,Friteuse sans huile Airfryer Dual Blaze Twinfry 10L Dark Grey COSORI,COSORI,Cuisine,249.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3045380021747,"Friteuse sans huile Airfryer 4,6 L Easy Fry & Grill EZ501810 MOULINEX",MOULINEX,Cuisine,89.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3045380024250,"Friteuse sans huile Airfryer 8,3 L EZ905B20 MOULINEX",MOULINEX,Cuisine,179.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3045380028920,Gaufrier / croque-monsieur SW863JF0 TEFAL,TEFAL,Cuisine,89.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3045380402744,Friteuse sans huile Airfryer 7L EZ855AF0 MOULINEX,MOULINEX,Cuisine,159.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3045386374700,Gaufrier / croque-monsieur Breaktime MOULINEX,MOULINEX,Cuisine,49.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3045387240370,Multicuiseur Cookeo+ 180 recettes CE85B510 MOULINEX,MOULINEX,Cuisine,199.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3045387242213,Friteuse semi-professionnelle Family Pro FR505D10 TEFAL,TEFAL,Cuisine,99.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3045387250454,Multicuiseur Cookeo+ CE854B10 MOULINEX,MOULINEX,Cuisine,219.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3045387252953,Cuiseur à riz Uno Design MK111EF1 MOULINEX,MOULINEX,Cuisine,49.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3045387291235,Multicuiseur Cookeo Mini CE880410 MOULINEX,MOULINEX,Cuisine,179.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3045387292942,Multicuiseur Cookeo Wifi 9-en-1 CE952810 MOULINEX,MOULINEX,Cuisine,279.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3045387296018,Multicuiseur Aifryer Cookeo Infinity CE9721F0 MOULINEX,MOULINEX,Cuisine,399.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3045387296124,Multicuiseur Airfryer Cookeo+ Extra Crisp CE85X8F0 MOULINEX,MOULINEX,Cuisine,249.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3045387299026,Friteuse sans huile Airfryer 6L FA341GFO MOULINEX,MOULINEX,Cuisine,129.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3168430315709,Appareil à raclette et Pierrade 10 personnes PR457B12 TEFAL,TEFAL,Cuisine,84.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3168430958944,Appareil à fondue Colomania EF260312 TEFAL,TEFAL,Cuisine,59.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3196203490148,Appareil à fondue Classic 349014 LAGRANGE,LAGRANGE,Cuisine,69.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3508510823159,Friteuse Airfryer 11 L FGOREN7 FAGOR,FAGOR,Cuisine,169.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3616958168807,Plaque de cuisson 2 foyers Blanc SHP303-24 SIMPL,SIMPL,Cuisine,29.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3616958175782,Plaque de cuisson 1 foyer Blanc SHP102-24 SIMPL,SIMPL,Cuisine,19.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3700902208425,Friteuse Airfryer 6 L RA610DV MEDEK,MEDEK,Cuisine,39.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3700902209378,"Friteuse sans huile Aifryer 4,5L MD4503A-SW MEDEK",MEDEK,Cuisine,59.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3700902209415,Friteuse Airfryer 10 L MD1008A-SW MEDEK,MEDEK,Cuisine,99.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-7640143170074,Friteuse sans huile Airfryer 8L OHM-FRY-8025EU OHMEX,OHMEX,Cuisine,79.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-8003705123588,Friteuse sans huile AirFryer ARI-4635 ARIETE,ARIETE,Cuisine,129.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-8712836984356,Appareil à raclette et gril 4 personnes RA-2949CA TRISTAR,TRISTAR,Cuisine,21.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-8720389033001,Friteuse sans huile NA351/00 Airfryer double panier 9L Noir/Argent Série 3000 PHILIPS PHILIPS,PHILIPS,Cuisine,199.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3016661155093,Robot multifonctions Soleil FP345A11 MOULINEX,MOULINEX,Cuisine,79.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-4242005307159,Robot multifonctions MultiTalent 3 B1EMCM3PM3 BOSCH,BOSCH,Cuisine,144.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-4242005501120,Robot patissier MUM58200 - 1000W BOSCH,BOSCH,Cuisine,229.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-5011423007335,Robot multifonctions FDP31.170GY KENWOOD,KENWOOD,Cuisine,74.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-5011423191522,Robot pâtissier Chef XL KVL4100 KENWOOD,KENWOOD,Cuisine,399.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-5011423204895,Robot pâtissier Prospero+ KHC294.P0RD Rouge KENWOOD,KENWOOD,Cuisine,339.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3016661154928,Centrifugeuse Frutelia Plus - JU370810 - Noir MOULINEX,MOULINEX,Cuisine,44.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3016661155406,Mixeur Plongeant Turbomix + Verre Doseur DD121110 MOULINEX,MOULINEX,Cuisine,49.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3016667242612,Blender chauffant - Easy Soup LM841B10 MOULINEX,MOULINEX,Cuisine,89.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3016667291474,Mixeur plongeant Optichef DD641810 MOULINEX,MOULINEX,Cuisine,69.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3045380014886,Yaourtière Multi Délices express YG661A00 SEB,SEB,Cuisine,109.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3045380015531,Mini-hachoir Electrique Soleil 3-en-1 Ivoire DJ360A1 MOULINEX,MOULINEX,Cuisine,39.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3045380018983,Bouilloire Equinox - BI520D10 - Inox/Noir TEFAL,TEFAL,Cuisine,69.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3045385783381,Machine à pain OW210130 720W 1kg - Blanc MOULINEX,MOULINEX,Cuisine,89.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3045386373543,Presse-agrume Vitapress PC300B10 Blanc MOULINEX,MOULINEX,Cuisine,20.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3045386374991,Mini four Optimo 39L OX485810 MOULINEX,MOULINEX,Cuisine,129.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3045387290450,Grille pain LS2M0810 MOULINEX,MOULINEX,Cuisine,34.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3045387296735,Grille pain ENIGMA 850w TT1M0GE0 TEFAL,TEFAL,Cuisine,34.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3094570152617,Balance de cuisine verte T1040 TERRAILLON,TERRAILLON,Cuisine,23.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3508510108812,Mini Four AMF302 ARTHUR MARTIN,ARTHUR MARTIN,Cuisine,119.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3616474406292,Micro-ondes combiné 25L TMF25DM-21 TOSHIBA,TOSHIBA,Cuisine,169.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3616958172453,Blender SBL500-24 SIMPL,SIMPL,Cuisine,18.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3616958191263,Micro-ondes ril 20L SMG20L-24 SIMPL,SIMPL,Cuisine,54.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3616958286228,Mini Four STO20-24 SIMPL,SIMPL,Cuisine,59.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3700342427424,Mini four Optimo - YY2960FB - Blanc MOULINEX,MOULINEX,Cuisine,79.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3700342474800,Mini Four Electrique - 33L - YY5883FB MOULINEX,MOULINEX,Cuisine,109.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3700902207220,Micro-ondes 20 L 20MG80-L MEDEK,MEDEK,Cuisine,89.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3700902208296,Pied mixeur - MEDFY701 - MEDEK,MEDEK,Cuisine,19.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3700902209019,Micro-ondes grill MEDE23UGP MEDEK,MEDEK,Cuisine,129.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3700902210169,Micro onde 23L - MED23UXP4 MEDEK,MEDEK,Cuisine,109.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3838782612138,Micro-ondes 20L H20MOWP HISENSE,HISENSE,Cuisine,79.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3838782637926,Micro-ondes 29 L H29MOBS9H HISENSE,HISENSE,Cuisine,129.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-4006387120832,Carafe filtrante en verre BRITA,BRITA,Cuisine,59.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-4006387124076,Carafe filtrante Marella Blanche BRITA,BRITA,Cuisine,24.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-4006387124090,Carafe filtrante Marella Bleue BRITA,BRITA,Cuisine,26.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-4006387124236,Distributeur d'eau filtrée Flow BRITA,BRITA,Cuisine,64.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-4006387137465,Carafe filtrante Aluna Calendar Blanche BRITA,BRITA,Cuisine,24.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-7290113763784,Machine à eau pétillante TERRA + 1 bouteille 1L noire SODASTREAM,SODASTREAM,Cuisine,69.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-7290113764019,Machine à eau pétillante TERRA + 1 bouteille 1L blanche SODASTREAM,SODASTREAM,Cuisine,69.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-7290113764231,Machine à eau pétillante TERRA + 2 bouteilles 1L noire SODASTREAM,SODASTREAM,Cuisine,89.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-7290116748559,Machine à eau pétillante Terra France avec 1 bouteille fuse 1L blanc SODASTREAM,SODASTREAM,Cuisine,69.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-7290116748917,Machine à gazéifier Terra Noire Feuille de Printemps SODASTREAM,SODASTREAM,Cuisine,69.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-7290119792818,Bouteille de gazéification 1L - FUSE PEPSI SODASTREAM,SODASTREAM,Cuisine,14.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-7290119792979,Machine à eau pétillante Noir + 2 carafes en verre d'1 L SODASTREAM,SODASTREAM,Cuisine,139.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-7640143169412,Mini Four OHM-OVN OHMEX,OHMEX,Cuisine,59.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-7640143169672,Blender -BLE-1524EU OHMEX,OHMEX,Cuisine,39.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-7640143169726,Crêpière électrique 3030EU OHMEX,OHMEX,Cuisine,19.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-7640143169863,Blender 3750USB OHMEX,OHMEX,Cuisine,14.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-7640143169887,Four à pizza HKI-PIZ-1460EU H.KOENIG,H.KOENIG,Cuisine,169.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-7640426990160,"Bouilloire électrique 1,8L KTL-2518EU OHMEX",OHMEX,Cuisine,19.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-7640426990351,Bouilloire électrique HKI-KTL-1717EU Blanc HELL S KITCHEN,HELL'S KITCHEN,Cuisine,49.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-8006447001343,Blender Original - NB604DG NUTRIBULLET,NUTRIBULLET,Cuisine,49.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-8017709302160,Bouilloire KLF05CREU - Crème SMEG,SMEG,Cuisine,129.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-8017709318901,Presse agrumes CJF11PGEU - Vert - SMEG,SMEG,Cuisine,169.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-8801643042714,Micro-ondes combiné MC28H5013AK SAMSUNG,SAMSUNG,Cuisine,199.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-8806088219660,Micro-ondes 23L MS23K3555EW SAMSUNG,SAMSUNG,Cuisine,119.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-8806090417801,Micro-ondes combiné Airfryer 35L MC35R8088CC SAMSUNG,SAMSUNG,Cuisine,399.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-8806092628274,Micro-ondes 20 L MS20A3010AL SAMSUNG,SAMSUNG,Cuisine,109.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3045380024489,Cafetière à dosette Dolce Gusto Blanc Neo KP850110 KRUPS,KRUPS,Cuisine,109.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3700342415810,Machine à expresso à dosette Nespresso Inissia Blanche YY1530FD KRUPS,KRUPS,Cuisine,89.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3700342431308,Cafetière à dosette Dolce Gusto Mini Me YY3888FD KRUPS,KRUPS,Cuisine,79.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3700342445510,Cafetière à dosette Dolce Gusto Piccolo XS rouge et noire KRUPS,KRUPS,Cuisine,59.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3700902208524,Machine à expresso Expresso MEDST697 MEDEK,MEDEK,Cuisine,89.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-8004399028593,Machine à expresso avec broyeur Magnifica Star ECAM223.61.GB DELONGHI,DELONGHI,Cuisine,599.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-8004399334571,Machine à expresso Stilosa EC 230.BK Noir DELONGHI,DELONGHI,Cuisine,109.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-8710103886037,Expresso broyeur EP2230/10 Machine à café à grain Noire brillante LatteGo Série 2200 PHILIPS PHILIPS,PHILIPS,Cuisine,479.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-8720389000102,Cafetière à capsules L'Or Barista LM9012/60 machine à café Sublime Noire PHILIPS PHILIPS,PHILIPS,Cuisine,84.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-8720389043246,Cafetière à dosette Senseo Tour de France HD7806 72 PHILIPS,PHILIPS,Cuisine,79.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-0622356320757,"Friteuse sans huile Airfryer 6,6 L AF550EU NINJA",NINJA,Cuisine,229.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3045386373055,Friteuse semi-professionnelle FR338070 TEFAL,TEFAL,Cuisine,79.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3045386373161,Appareil à Gaufre Multifonction 3 plaques Amovibles Grill SW614831 TEFAL,TEFAL,Cuisine,79.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3045386379750,Friteuse semi professionnelle Family Pro Access FR5030 TEFAL,TEFAL,Cuisine,89.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3045387294168,Multicuiseur Airfryer Multicook & Fry MZ7301F0 MOULINEX,MOULINEX,Cuisine,179.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3168430359147,"Appareil à raclette, plancha, crêpière 6 personnes RE151110 TEFAL",TEFAL,Cuisine,49.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3196200391226,Gaufrier Super 2 Gaufres Noir 039122 LAGRANGE,LAGRANGE,Cuisine,89.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3700342476903,Multicuiseur Airfryer Cookeo+ Extra Crisp YY5355FB MOULINEX,MOULINEX,Cuisine,269.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3700902206919,Friteuse sans huile Airfryer 8 L RA810D MEDEK,MEDEK,Cuisine,79.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-8006447002999,Friteuse sans huile Airfryer 8 L NBA081B NUTRIBULLET,NUTRIBULLET,Cuisine,129.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-8720389060427,Friteuse sans huile NA156/60 Airfryer panier flexible 7.1L Bleu Série 1000 PHILIPS PHILIPS,PHILIPS,Cuisine,149.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3016661177200,Robot pâtissier QA160H1 MOULINEX,MOULINEX,Cuisine,129.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-7640143169764,Robot cuiseur multifonctions HKI-RBC-0725EU HELL'S KITCHEN,HELL'S KITCHEN,Cuisine,329.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3045386381494,Grille-pain TL302110 Blanc MOULINEX,MOULINEX,Cuisine,34.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3508510083027,Batteur - FG770 NOC - FAGOR,FAGOR,Cuisine,39.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3616958792811,Micro-ondes gril 23L TMA23M-25 TOSHIBA,TOSHIBA,Cuisine,159.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3617702318967,Micro-ondes 20L SMO20LW-26 SIMPL,SIMPL,Cuisine,44.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3700902205042,Micro-ondes 20L 20MX80-L Blanc MEDEK,MEDEK,Cuisine,79.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3838782655340,Micro-ondes gril 20L H20MOBP1G HISENSE,HISENSE,Cuisine,99.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3838782731990,Micro-ondes 20L H20MOBSD1H HISENSE,HISENSE,Cuisine,109.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-4242002922003,Mixeur clevermixx BOSCH,BOSCH,Cuisine,49.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-7290113764439,Machine à eau pétillante ART + 1 bouteille 1L noire SODASTREAM,SODASTREAM,Cuisine,109.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-7290116742366,Machine à eau pétillante GAIA + 1 bouteille 1L noire SODASTREAM,SODASTREAM,Cuisine,59.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-8003437626722,Micro-ondes 30 L MWO609WH WHIRLPOOL,WHIRLPOOL,Cuisine,149.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-8003437861475,Micro-ondes MWP251B WHIRLPOOL,WHIRLPOOL,Cuisine,159.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-8003437861802,Micro-ondes gril 20 L MWP103B WHIRLPOOL,WHIRLPOOL,Cuisine,139.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-8806088219523,Micro-ondes 23 L MS23K3513AK SAMSUNG,SAMSUNG,Cuisine,149.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-8806095506975,Micro-ondes 23L MS23DG4504AT SAMSUNG,SAMSUNG,Cuisine,139.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-8710103949091,Cafetière à dosette Senseo CSA240/21 machine à café Select Noire PHILIPS PHILIPS,PHILIPS,Cuisine,69.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-8720389000249,Cafetière à dosette Senseo CSA210/51 machine à café Original plus Gris Anthracite PHILIPS PHILIPS,PHILIPS,Cuisine,74.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3616958174488,Appareil à raclette et gril 2 personnes SRG2-24 SIMPL,SIMPL,Cuisine,14.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3700902209385,Friteuse sans huile Airfryer 6 L MD508A-SW MEDEK,MEDEK,Cuisine,69.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3700902209903,"Friteuse sans huile Airfryer 4,5 L MED4505G MEDEK",MEDEK,Cuisine,99.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-7640143169894,"Friteuse sans huile Airfryer 6,5 L HKI-FRY-6512AIR HELL'S KITCHEN",HELL'S KITCHEN,Cuisine,149.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-7640143169771,Robot cuiseur multifonctions HKI-RBC-1025EU HELL'S KITCHEN,HELL'S KITCHEN,Cuisine,379.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3045380024571,Découpe légume Fresh Express MOULINEX,MOULINEX,Cuisine,49.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3045387294847,Bouilloire électrique Subito BY5S0DE0 MOULINEX,MOULINEX,Cuisine,39.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3045387295189,"Bouilloire sans-fil 1,7L 2400w Tanin MOULINEX",MOULINEX,Cuisine,39.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3045388553066,"Mini-hachoir Electrique Valentin 2-en-1, Puissant et Compact 855306 SEB",SEB,Cuisine,29.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3168437251574,Cake Factory KD804510 TEFAL,TEFAL,Cuisine,169.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3616957643695,Four à Pizza au Bois ou Charbon de bois Multifonction pour Extérieur sur Roues Bari HYBA,HYBA,Cuisine,139.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3616958138435,Grille-pain ST870S-24 SIMPL,SIMPL,Cuisine,9.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-4006387142131,Carafe Filtrante Style Essential avec 6 filtres Maxtra Pro Pure Performane BRITA,BRITA,Cuisine,36.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-7290113764224,Machine à eau pétillante TERRA + 1 bouteille 1L blanche SODASTREAM,SODASTREAM,Cuisine,89.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-8017709318871,Presse agrumes CJF11BLEU - Noir - SMEG,SMEG,Cuisine,169.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-8050147566756,Micro-ondes 20L MWHA 101 W HOTPOINT,HOTPOINT,Cuisine,89.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-8806095507057,Micro-ondes 32L MS32DG4504AG SAMSUNG,SAMSUNG,Cuisine,169.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3016661181436,Machine à café grains automatique - EA2004E0 KRUPS,KRUPS,Cuisine,329.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3016661181443,Machine à expresso broyeur à grain EA201BE0 KRUPS,KRUPS,Cuisine,349.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3016667201183,Machine à expresso Broyeur auto - EA4008E0 KRUPS,KRUPS,Cuisine,299.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
-3045387294632,Cafetière filtre Subito 10-15 tasses FG5S0DE0 noir MOULINEX,MOULINEX,Cuisine,39.99,,True,2026-07-23T21:05:23.924929+00:00,carrefour_cuisine.csv
+ean,title,brand,category,price,promo_price,available,seller_type,scraped_at,source_file
+0622356294072,Machine à granité Slushi FS301EU NINJA,NINJA,Cuisine,299.99,199.99,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3016667201183,Machine à café Serenity EA4008E0 KRUPS,KRUPS,Cuisine,299.99,259.99,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3616958191263,Micro-ondes gril 20L SMG20L-24 SIMPL,SIMPL,Cuisine,54.99,49.99,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3700342400090,Cafetière Dolce Gusto Genio S YY5838FD Blanc KRUPS,KRUPS,Cuisine,99.99,59.99,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+8004399027039,Machine à café avec broyeur Magnifica Evo ECAM290.51.B DELONGHI,DELONGHI,Cuisine,599.99,399.99,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+8004399327924,Cafetière Nespresso Inissia EN 80.B Noir DELONGHI,DELONGHI,Cuisine,89.99,79.99,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3770039334090,Machine à glaçons Portable MIV-120MAG MIVANO,MIVANO,Cuisine,59.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3045387290573,Cafetière filtre Morning FG2M0810 Noir MOULINEX,MOULINEX,Cuisine,34.99,29.99,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3700342437614,Cafetière Nespresso Vertuo Plus YY3916FD Blanc KRUPS,KRUPS,Cuisine,189.99,79.99,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3700342442090,Cafetière Nespresso Vertuo Next YY4296FD Rouge KRUPS,KRUPS,Cuisine,149.99,59.99,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3700342442564,Cafetière Nespresso Vertuo Plus YY4317FD Noir KRUPS,KRUPS,Cuisine,189.99,79.99,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3700342474237,Cafetière Dolce Gusto Genio S YY5215FD Blanc KRUPS,KRUPS,Cuisine,89.99,59.99,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3700342476637,Cafetière Dolce Gusto Genio S YY5346FD Blanc KRUPS,KRUPS,Cuisine,109.99,59.99,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+8004399025370,Machine à café avec broyeur Magnifica Start ECAM 220.22.GB DELONGHI,DELONGHI,Cuisine,399.99,329.99,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+8004399325326,Machine à café avec broyeur Magnifica S ECAM22.140.B DELONGHI,DELONGHI,Cuisine,399.99,299.99,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+8710103894629,Machine à café avec broyeur EP1224/00 PHILIPS,PHILIPS,Cuisine,289.99,269.99,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+0622356243391,Sorbetière CREAMi NC300EU 473 ml 800 W Noir et Argent NINJA,NINJA,Cuisine,229.99,179.99,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3045387290450,Grille pain LS2M0810 MOULINEX,MOULINEX,Cuisine,34.99,29.99,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+4242002770840,Hachoir à viande Pro Power argent BOSCH,BOSCH,Cuisine,129.99,109.99,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3700342415810,Cafetière Nespresso Inissia YY1530FD Blanc KRUPS,KRUPS,Cuisine,89.99,79.99,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3700342431308,Cafetière Dolce Gusto Mini Me YY3888FD Gris KRUPS,KRUPS,Cuisine,79.99,39.99,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3187578029361,Machine à expresso à dosette EOH Noir MALONGO,MALONGO,Cuisine,119.99,79.99,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3700342052237,Cafetière Nespresso Vertuo Pop Rouge YY4888FD KRUPS,KRUPS,Cuisine,99.99,79.99,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3700342052244,Cafetière Nespresso Vertuo Pop Blanche YY4889FD KRUPS,KRUPS,Cuisine,99.99,79.99,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+8004399036475,Cafetière Nespresso Essenza Mini EN85.B Noir + 50 capsules Nespresso DELONGHI,DELONGHI,Cuisine,119.99,79.99,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+5413184202712,Robot pâtissier Noir Classic 5K45SSEOB KITCHENAID,KITCHENAID,Cuisine,399.99,299.99,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3045387290221,Bouilloire Morning - Bleu Nuit - 1.7 L MOULINEX,MOULINEX,Cuisine,34.99,29.99,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3045387290443,Grille pain 2 fentes Morning Bleu Nuit - MOULINEX,MOULINEX,Cuisine,34.99,29.99,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3700902209811,Machine à gazéifier MDSO198 MEDEK,MEDEK,Cuisine,59.99,39.99,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+4242005098996,Batteur MFQP1000 - 300W BOSCH,BOSCH,Cuisine,31.99,19.99,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+4242005099009,Mixeur plongeant - MSMP1000 - Blanc BOSCH,BOSCH,Cuisine,24.99,16.99,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+7290119793945,Machine à eau pétillante Terra noire avec bouteille noire fleurs violettes SODASTREAM,SODASTREAM,Cuisine,69.99,49.99,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+6430052008367,Wellness Water Citron MYSODA,MYSODA,Cuisine,7.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+8719128117294,Concentré 7Up zéro sucres 440 ml SODASTREAM,SODASTREAM,Cuisine,5.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3700902206148,Friteuse Airfryer 6L RA610D MEDEK,MEDEK,Cuisine,49.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3700902208074,Friteuse semi-professionnelle 5 L MED3503 MEDEK,MEDEK,Cuisine,59.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3700902208425,Friteuse Airfryer 6 L RA610DV MEDEK,MEDEK,Cuisine,39.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3700902209378,"Friteuse sans huile Aifryer 4,5L MD4503A-SW MEDEK",MEDEK,Cuisine,29.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3700902209415,Friteuse Airfryer 10 L MD1008A-SW MEDEK,MEDEK,Cuisine,59.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3700902206919,Friteuse sans huile Airfryer 8 L RA810D MEDEK,MEDEK,Cuisine,49.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3700902206926,"Friteuse Airfryer 4,5 L RA510D MEDEK",MEDEK,Cuisine,29.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3700902208128,Friteuse Airfryer 9 L RA910D MEDEK,MEDEK,Cuisine,59.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3700902208418,"Friteuse Airfryer 4,5 L RA510DV MEDEK",MEDEK,Cuisine,59.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3700902209361,"Friteuse sans huile Airfryer 2,2 L MD203 MEDEK",MEDEK,Cuisine,19.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3700902209408,"Friteuse sans huile Airfryer 8,2 L MD905A-SW MEDEK",MEDEK,Cuisine,69.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3700902208890,"Friteuse Airfryer 2,2 L RA311D MEDEK",MEDEK,Cuisine,39.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3700902209385,Friteuse sans huile Airfryer 6 L MD508A-SW MEDEK,MEDEK,Cuisine,39.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3700902209903,"Friteuse sans huile Airfryer 4,5 L MED4505G MEDEK",MEDEK,Cuisine,39.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3700902206131,Friteuse Airfryer 6L RA610D MEDEK,MEDEK,Cuisine,49.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3616958791067,"Blender 1,75L 1300w HBL1300-25 CARREFOUR HOME",CARREFOUR HOME,Cuisine,39.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3616958830636,Micro-ondes 20L HMO20LDM-25 CARREFOUR HOME,CARREFOUR HOME,Cuisine,79.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3616958831015,Hachoir à viande HMG600-25 CARREFOUR HOME,CARREFOUR HOME,Cuisine,39.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3616958831756,Grille-pain HT800-25 CARREFOUR HOME,CARREFOUR HOME,Cuisine,27.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+4744131013831,Carafe filtrante en plastique - HJUG-24 CARREFOUR HOME,CARREFOUR HOME,Cuisine,12.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3617702336855,Friteuse sans huile Airfryer 11L HAF11LDS3000-26 CARREFOUR HOME,CARREFOUR HOME,Cuisine,49.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3616958792743,Micro-ondes 20L HMOR20WC-25 CARREFOUR HOME,CARREFOUR HOME,Cuisine,79.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3616958792781,Micro-ondes gril 22L HMF23DW-25 CARREFOUR HOME,CARREFOUR HOME,Cuisine,99.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3616958808116,Réchaud plaque céramique 2 feux HHP2500-2 CARREFOUR HOME,CARREFOUR HOME,Cuisine,39.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3616958831053,Mini-four 36L Noir CARREFOUR HOME,CARREFOUR HOME,Cuisine,89.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3616959366882,Micro-ondes 23L HMG23LDFM-25 CARREFOUR HOME,CARREFOUR HOME,Cuisine,99.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3616959381670,Four à pizza HPO12-25 CARREFOUR HOME,CARREFOUR HOME,Cuisine,149.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+6430052003331,Machine à eau pétillante - Noir,Non spécifié,Cuisine,49.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3616958831732,Moulin à café HCG2013B-25 CARREFOUR HOME,CARREFOUR HOME,Cuisine,12.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3616958831749,Cafetière filtre isotherme HCM6011T-25 Noir CARREFOUR HOME,CARREFOUR HOME,Cuisine,34.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3616958835372,Cafetière filtre HCM650-25 Noir CARREFOUR HOME,CARREFOUR HOME,Cuisine,19.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3616958835389,Cafetière filtre HCMP800-25 Noir CARREFOUR HOME,CARREFOUR HOME,Cuisine,19.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3616958837406,Cafetière filtre HCM800T-25 Noir CARREFOUR HOME,CARREFOUR HOME,Cuisine,25.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3616959391266,Machine à café moulu HEC1100PRCS-25 Beige CARREFOUR HOME,CARREFOUR HOME,Cuisine,79.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3617702360430,Machine à café moulu HCM1450SS-26 CARREFOUR HOME,CARREFOUR HOME,Cuisine,89.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3480852100108,Réchaud sur cartouche 1 feu CARREFOUR,CARREFOUR,Cuisine,17.49,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3480852451002,Réchaud d'appoint de table 1 feu CARREFOUR,CARREFOUR,Cuisine,24.49,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3480853401105,Réchaud 2 feux avec dosseret CARREFOUR,CARREFOUR,Cuisine,54.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3616958785677,Plaque à induction à double foyer HIC3400N-25 Noir CARREFOUR HOME,CARREFOUR HOME,Cuisine,99.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3616958802015,Cuiseur à oeufs HEB365-25 CARREFOUR HOME,CARREFOUR HOME,Cuisine,17.0,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3616958808123,Plaque à induction HIC2000-25 CARREFOUR HOME,CARREFOUR HOME,Cuisine,49.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3616958808130,Gaufrier HSWM1400-25 CARREFOUR HOME,CARREFOUR HOME,Cuisine,49.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3616958817859,"Appareil à gauffres, sandwichs, paninis HSWPM800-25 CARREFOUR HOME",CARREFOUR HOME,Cuisine,35.4,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3616959366578,"Friteuse sans huile Airfryer 2,8L HAF3L1400-25 CARREFOUR HOME",CARREFOUR HOME,Cuisine,29.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3616959381434,Friteuse Classique - HDF258-25 CARREFOUR HOME,CARREFOUR HOME,Cuisine,29.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3617702060361,Appareil à raclette HRG8P1200-25 CARREFOUR HOME,CARREFOUR HOME,Cuisine,39.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3617702336930,"Friteuse sans huile AirFryer 4,5L - HAF5LV1500-26 CARREFOUR HOME",CARREFOUR HOME,Cuisine,29.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3617702340623,Friteuse à huile 5L - HDF50B-26,Non spécifié,Cuisine,59.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3617702508559,"Friteuse sans huile AirFryer 4,5L - HAF5LV1500GB-26 CARREFOUR HOME",CARREFOUR HOME,Cuisine,29.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3616958825236,Robot multifonction HFP1000-25 CARREFOUR HOME,CARREFOUR HOME,Cuisine,59.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3616959380987,Robot pâtissier noir HSM1300BH-25 CARREFOUR HOME,CARREFOUR HOME,Cuisine,79.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3616953077432,Mousseur à lait électrique CARREFOUR HOME,CARREFOUR HOME,Cuisine,9.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3616958302423,Balance Electronique Inox CARREFOUR HOME,CARREFOUR HOME,Cuisine,9.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3616958785783,Machine mise sous vide HVS100-25 CARREFOUR HOME,CARREFOUR HOME,Cuisine,39.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3616958790893,Blender HSB3202B-25 CARREFOUR HOM,CARREFOUR HOME,Cuisine,14.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3616958795102,Bouilloire électrique HWK17S-25 CARREFOUR HOME,CARREFOUR HOME,Cuisine,19.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3616958797465,Grille Pain HLT1400S-25 CARREFOUR HOME,CARREFOUR HOME,Cuisine,29.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3616958817309,Rapeur électrique HEK120-25 CARREFOUR HOME,CARREFOUR HOME,Cuisine,19.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3616958817545,Mixeur plongeant HHB800-25 CARREFOUR HOME,CARREFOUR HOME,Cuisine,19.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3616958825229,Blender HBL800-25 CARREFOUR HOME,CARREFOUR HOME,Cuisine,29.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3616958830919,Presse agrume HCJ130-25 CARREFOUR HOME,CARREFOUR HOME,Cuisine,29.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3616958835426,Bouilloire électrique HWK650-25 CARREFOUR HOME,CARREFOUR HOME,Cuisine,14.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3616958835440,Bouilloire électrique HWKP17-25 CARREFOUR HOME,CARREFOUR HOME,Cuisine,15.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3616958835877,Mixeur plongeant HHBS800-25 + accessoires CARREFOUR HOME,CARREFOUR HOME,Cuisine,29.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3616958837413,Crêpière électrique HCP380STB-25 CARREFOUR HOME,CARREFOUR HOME,Cuisine,59.9,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3616959349830,Mini-hachoir HMC5002-25 CARREFOUR HOME,CARREFOUR HOME,Cuisine,18.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3616959349984,Blender chauffant HSM16L-25 CARREFOUR HOM,CARREFOUR HOME,Cuisine,59.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3616959366325,Batteur électrique HHM300-25 CARREFOUR HOME,CARREFOUR HOME,Cuisine,19.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3616959366332,Blender HBL1400D-25 CARREFOUR HOME,CARREFOUR HOME,Cuisine,59.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3616959381441,Blender chauffant HHSB150B-25 CARREFOUR HOME,CARREFOUR HOME,Cuisine,69.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3617702332710,Mini hachoir électrique - HMC50012L-26 CARREFOUR HOME,CARREFOUR HOME,Cuisine,18.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3617702491721,Machine à glaçon HICM1201L8P-26 CARREFOUR HOME,CARREFOUR HOME,Cuisine,99.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3760387480211,Machine à eau Pétillante - 580 Black - CARREFOUR,CARREFOUR,Cuisine,59.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3760387480488,Machine à gazéifier 1L - 580 Bleu CARREFOUR,CARREFOUR,Cuisine,59.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3616958168807,Plaque de cuisson 2 foyers Blanc SHP303-24 SIMPL,SIMPL,Cuisine,29.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3616958175782,Plaque de cuisson 1 foyer Blanc SHP102-24 SIMPL,SIMPL,Cuisine,19.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3700902208296,Pied mixeur - MEDFY701 - MEDEK,MEDEK,Cuisine,14.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+7640143169863,Blender 3750USB OHMEX,OHMEX,Cuisine,9.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3700902207022,Cafetière Nespresso KM-C0518 Blanc MEDEK,MEDEK,Cuisine,54.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3700902208524,Machine à café moulu MEDST697 MEDEK,MEDEK,Cuisine,59.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+8004399334571,Machine à café moulu Stilosa EC230.BK DELONGHI,DELONGHI,Cuisine,109.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+8006447002999,Friteuse sans huile Airfryer 8 L NBA081B NUTRIBULLET,NUTRIBULLET,Cuisine,59.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3700902207039,Cafetière Nespresso KM-C0518 Noire MEDEK,MEDEK,Cuisine,54.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+7640143169894,"Friteuse sans huile Airfryer 6,5 L HKI-FRY-6512AIR HELL'S KITCHEN",HELL'S KITCHEN,Cuisine,99.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3700902210336,Grill viande avec plaques de grill amovibles - MED-MDGR62 MEDEK,MEDEK,Cuisine,59.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+5412144160208,Appareil à croque monsieur Duo Dwich XXL FRIFRI,FRIFRI,Cuisine,29.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+7640143169498,Friteuse Friteuse fondue 1001EU OHMEX,OHMEX,Cuisine,17.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+7640426991136,Plaque à induction avec grill et marmite - OHM-INC-3330EU OHMEX,OHMEX,Cuisine,69.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+8712184060078,Gaufrier Pat Patrouille Rose BESTRON,BESTRON,Cuisine,12.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+8712184063154,Gaufrier Pat Patrouille Rouge BESTRON,BESTRON,Cuisine,12.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+8712184064366,Gaufrier Pat Patrouille Jaune BESTRON,BESTRON,Cuisine,12.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+8712184065035,Gaufrier Pat Patrouille Chase Bleu BESTRON,BESTRON,Cuisine,12.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+7640426991358,Robot Multifonction 800W - OHM-RBT-3326EU OHMEX,OHMEX,Cuisine,59.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+4006387137335,Carafe filtrante Aluna Calendar Blanche BRITA,BRITA,Cuisine,16.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+7640143169870,Mini hachoir rechargeable OHM-CHO-3550USB OHMEX,OHMEX,Cuisine,7.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3045380019034,Cafetière filtre programmable Equinox CM520D10 Noir TEFAL,TEFAL,Cuisine,69.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3045386380091,Cafetière filtre Soleil FG381A10 Ivoire MOULINEX,MOULINEX,Cuisine,34.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3045387296704,Cafetière filtre CM1M0GE0 TEFAL,TEFAL,Cuisine,34.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3219410082149,Cafetière italienne Melina Express Aluminium ROSSETTO,ROSSETTO,Cuisine,22.49,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3700342443721,Cafetière Dolce Gusto Piccolo XS YY4395FD Noir KRUPS,KRUPS,Cuisine,59.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3700342444322,Cafetière Dolce Gusto Genio S Plus YY4445FD Noir KRUPS,KRUPS,Cuisine,119.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3700342452105,Cafetière Dolce Gusto Neo YY5733FD Noir KRUPS,KRUPS,Cuisine,109.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+4008146030550,Moulin à café et épices KM3879 SEVERIN,SEVERIN,Cuisine,19.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+4008146042485,Cafetière filtre KA4320 Noir SEVERIN,SEVERIN,Cuisine,34.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+4242005471980,Cafetière Tassimo Style TAS112E Noir BOSCH,BOSCH,Cuisine,44.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+4242005471997,Cafetière Tassimo Style TAS113E Rouge BOSCH,BOSCH,Cuisine,46.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+8004399331457,Machine à café avec broyeur FEB3535.SB DELONGHI,DELONGHI,Cuisine,549.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+8004399332225,Machine à café avec broyeur Dedica EC695.M DELONGHI,DELONGHI,Cuisine,199.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+8004399333451,Machine à café avec broyeur Magnifica S ECAM 21.112.S DELONGHI,DELONGHI,Cuisine,449.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+8710103871644,Cafetière L'Or Barista LM8012/60 Noir PHILIPS,PHILIPS,Cuisine,84.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+8710103968894,Cafetière Senseo Original Plus CSA210/61 Noir PHILIPS,PHILIPS,Cuisine,69.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+8720389048425,Cafetière Senseo Original HD7806/58 Gris PHILIPS,PHILIPS,Cuisine,79.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+8720389066429,Cafetière Senseo Original Plus CSA210/81 Vert PHILIPS,PHILIPS,Cuisine,74.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+0622356270373,"Friteuse sans huile Airfryer 10,4 L Foodi Flex AF500EU NINJA",NINJA,Cuisine,269.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+0622356317634,Friteuse sans huile Airfryer en verre FN101EUSG Crispi NINJA,NINJA,Cuisine,179.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+0810123673285,Friteuse sans huile Airfryer Dual Blaze Twinfry 10L Dark Grey COSORI,COSORI,Cuisine,249.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3045380021747,"Friteuse sans huile Airfryer 4,6 L Easy Fry & Grill EZ501810 MOULINEX",MOULINEX,Cuisine,79.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3045380024250,"Friteuse sans huile Airfryer 8,3 L EZ905B20 MOULINEX",MOULINEX,Cuisine,179.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3045380028920,Gaufrier / croque-monsieur SW863JF0 TEFAL,TEFAL,Cuisine,89.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3045380402744,Friteuse sans huile Airfryer 7L EZ855AF0 MOULINEX,MOULINEX,Cuisine,159.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3045386374700,Gaufrier / croque-monsieur Breaktime MOULINEX,MOULINEX,Cuisine,49.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3045387240370,Multicuiseur Cookeo+ 180 recettes CE85B510 MOULINEX,MOULINEX,Cuisine,199.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3045387242213,Friteuse semi-professionnelle Family Pro FR505D10 TEFAL,TEFAL,Cuisine,99.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3045387250454,Multicuiseur Cookeo+ CE854B10 MOULINEX,MOULINEX,Cuisine,219.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3045387252953,Cuiseur à riz Uno Design MK111EF1 MOULINEX,MOULINEX,Cuisine,49.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3045387291235,Multicuiseur Cookeo Mini CE880410 MOULINEX,MOULINEX,Cuisine,179.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3045387292942,Multicuiseur Cookeo Wifi 9-en-1 CE952810 MOULINEX,MOULINEX,Cuisine,279.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3045387296018,Multicuiseur Aifryer Cookeo Infinity CE9721F0 MOULINEX,MOULINEX,Cuisine,349.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3045387296124,Multicuiseur Airfryer Cookeo+ Extra Crisp CE85X8F0 MOULINEX,MOULINEX,Cuisine,239.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3045387299026,Friteuse sans huile Airfryer 6L FA341GFO MOULINEX,MOULINEX,Cuisine,129.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3168430315709,Appareil à raclette et Pierrade 10 personnes PR457B12 TEFAL,TEFAL,Cuisine,69.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3168430958944,Appareil à fondue Colomania EF260312 TEFAL,TEFAL,Cuisine,59.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3196203490148,Appareil à fondue Classic 349014 LAGRANGE,LAGRANGE,Cuisine,69.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3508510005425,"Friteuse 3,5 L FG2310 FAGOR",FAGOR,Cuisine,99.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3508510823159,Friteuse Airfryer 11 L FGOREN7 FAGOR,FAGOR,Cuisine,169.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3700342483659,Multicuiseur Cookeo YY5655FB + 5 boîtes de conservation MOULINEX,MOULINEX,Cuisine,249.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+7640143170074,Friteuse sans huile Airfryer 8L OHM-FRY-8025EU OHMEX,OHMEX,Cuisine,79.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+8003705123588,Friteuse sans huile AirFryer ARI-4635 ARIETE,ARIETE,Cuisine,129.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+8712836984356,Appareil à raclette et gril 4 personnes RA-2949CA TRISTAR,TRISTAR,Cuisine,21.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+8720389033001,Friteuse sans huile NA351/00 Airfryer double panier 9L Noir/Argent Série 3000 PHILIPS PHILIPS,PHILIPS,Cuisine,199.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3016661155093,Robot multifonctions Soleil FP345A11 MOULINEX,MOULINEX,Cuisine,79.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+4242005307159,Robot multifonctions MultiTalent 3 B1EMCM3PM3 BOSCH,BOSCH,Cuisine,144.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+4242005501120,Robot patissier MUM58200 - 1000W BOSCH,BOSCH,Cuisine,229.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+5011423007335,Robot multifonctions FDP31.170GY KENWOOD,KENWOOD,Cuisine,74.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+5011423191522,Robot pâtissier Chef XL KVL4100 KENWOOD,KENWOOD,Cuisine,399.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+5011423204895,Robot pâtissier Prospero+ KHC294.P0RD Rouge KENWOOD,KENWOOD,Cuisine,339.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+0622356292306,Sorbetière NC701EU NINJA,NINJA,Cuisine,349.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3016661154928,Centrifugeuse Frutelia Plus - JU370810 - Noir MOULINEX,MOULINEX,Cuisine,44.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3016661155406,Mixeur Plongeant Turbomix + Verre Doseur DD121110 MOULINEX,MOULINEX,Cuisine,49.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3016661180484,Machine à glaces Dolci MJ602AF0 MOULINEX,MOULINEX,Cuisine,229.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3016667242612,Blender chauffant - Easy Soup LM841B10 MOULINEX,MOULINEX,Cuisine,89.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3016667291474,Mixeur plongeant Optichef DD641810 MOULINEX,MOULINEX,Cuisine,69.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3045380014886,Yaourtière Multi Délices express YG661A00 SEB,SEB,Cuisine,109.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3045380015531,Mini-hachoir Electrique Soleil 3-en-1 Ivoire DJ360A1 MOULINEX,MOULINEX,Cuisine,39.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3045380018983,Bouilloire Equinox - BI520D10 - Inox/Noir TEFAL,TEFAL,Cuisine,69.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3045380019041,Grille pain Equinox TT520D10 - Inox/Noir TEFAL,TEFAL,Cuisine,69.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3045385783381,Machine à pain OW210130 720W 1kg - Blanc MOULINEX,MOULINEX,Cuisine,89.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3045386373543,Presse-agrume Vitapress PC300B10 Blanc MOULINEX,MOULINEX,Cuisine,20.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3045386374991,Mini four Optimo 39L OX485810 MOULINEX,MOULINEX,Cuisine,129.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3045386380114,Bouilloire sans fil BY320A Soleil Ivoire MOULINEX,MOULINEX,Cuisine,28.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3094570152617,Balance de cuisine verte T1040 TERRAILLON,TERRAILLON,Cuisine,23.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3508510108812,Mini Four AMF302 ARTHUR MARTIN,ARTHUR MARTIN,Cuisine,119.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3616474406292,Micro-ondes combiné 25L TMF25DM-21 TOSHIBA,TOSHIBA,Cuisine,169.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3616958172453,Blender SBL500-24 SIMPL,SIMPL,Cuisine,18.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3616958286228,Mini Four STO20-24 SIMPL,SIMPL,Cuisine,59.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3700342427424,Mini four Optimo - YY2960FB - Blanc MOULINEX,MOULINEX,Cuisine,79.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3700342474800,Mini Four Electrique - 33L - YY5883FB MOULINEX,MOULINEX,Cuisine,109.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3700902207220,Micro-ondes 20 L 20MG80-L MEDEK,MEDEK,Cuisine,89.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3700902208531,Micro-ondes 30L MEDE3OUX MEDEK,MEDEK,Cuisine,129.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3700902209019,Micro-ondes grill MEDE23UGP MEDEK,MEDEK,Cuisine,129.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3700902210169,Micro-ondes 23L MED23UXP4 MEDEK,MEDEK,Cuisine,109.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3838782612138,Micro-ondes 20L H20MOWP HISENSE,HISENSE,Cuisine,79.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3838782637926,Micro-ondes 29 L H29MOBS9H HISENSE,HISENSE,Cuisine,129.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+4006387120832,Carafe filtrante en verre BRITA,BRITA,Cuisine,59.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+4006387124076,Carafe filtrante Marella Blanche BRITA,BRITA,Cuisine,21.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+4006387124090,Carafe filtrante Marella Bleue BRITA,BRITA,Cuisine,22.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+4006387124236,Distributeur d'eau filtrée Flow BRITA,BRITA,Cuisine,64.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+4006387137465,Carafe filtrante Aluna Calendar Blanche BRITA,BRITA,Cuisine,24.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+7290113763784,Machine à eau pétillante TERRA + 1 bouteille 1L noire SODASTREAM,SODASTREAM,Cuisine,66.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+7290113764019,Machine à eau pétillante TERRA + 1 bouteille 1L blanche SODASTREAM,SODASTREAM,Cuisine,66.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+7290113764231,Machine à eau pétillante TERRA + 2 bouteilles 1L noire SODASTREAM,SODASTREAM,Cuisine,89.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+7290116748559,Machine à eau pétillante Terra France avec 1 bouteille fuse 1L blanc SODASTREAM,SODASTREAM,Cuisine,69.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+7290116748917,Machine à gazéifier Terra Noire Feuille de Printemps SODASTREAM,SODASTREAM,Cuisine,69.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+7290119792801,Pack Bouteille de gazéification 1L Fuse - lot de 3 SODASTREAM,SODASTREAM,Cuisine,26.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+7290119792818,Bouteille de gazéification 1L - FUSE PEPSI SODASTREAM,SODASTREAM,Cuisine,14.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+7290119792979,Machine à eau pétillante Noir + 2 carafes en verre d'1 L SODASTREAM,SODASTREAM,Cuisine,139.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+7640143169412,Mini Four OHM-OVN OHMEX,OHMEX,Cuisine,59.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+7640143169672,Blender -BLE-1524EU OHMEX,OHMEX,Cuisine,39.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+7640143169726,Crêpière électrique 3030EU OHMEX,OHMEX,Cuisine,19.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+7640143169887,Four à pizza HKI-PIZ-1460EU H.KOENIG,H.KOENIG,Cuisine,169.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+7640426990160,"Bouilloire électrique 1,8L KTL-2518EU OHMEX",OHMEX,Cuisine,19.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+7640426990351,Bouilloire électrique HKI-KTL-1717EU Blanc HELL S KITCHEN,HELL'S KITCHEN,Cuisine,49.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+8006447001343,Blender Original - NB604DG NUTRIBULLET,NUTRIBULLET,Cuisine,49.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+8017709302160,Bouilloire KLF05CREU - Crème SMEG,SMEG,Cuisine,129.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+8017709318901,Presse agrumes CJF11PGEU - Vert - SMEG,SMEG,Cuisine,169.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+8801643042714,Micro-ondes combiné MC28H5013AK SAMSUNG,SAMSUNG,Cuisine,199.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+8806088219660,Micro-ondes 23L MS23K3555EW SAMSUNG,SAMSUNG,Cuisine,119.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+8806090417801,Micro-ondes combiné Airfryer 35L MC35R8088CC SAMSUNG,SAMSUNG,Cuisine,399.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+8806092628274,Micro-ondes 20 L MS20A3010AL SAMSUNG,SAMSUNG,Cuisine,109.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3045380024489,Cafetière Dolce Gusto Neo KP850110 Blanc KRUPS,KRUPS,Cuisine,109.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3700342445510,Cafetière Dolce Gusto Piccolo XS YY4556FD Rouge KRUPS,KRUPS,Cuisine,59.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3700342475333,Cafetière Nespresso Pixie YY5290FD Titane KRUPS,KRUPS,Cuisine,149.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+8004399028593,Machine à café avec broyeur Magnifica Start ECAM223.61.GB DELONGHI,DELONGHI,Cuisine,599.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+8004399334823,Machine à café avec broyeur ECAM13.123B DELONGHI,DELONGHI,Cuisine,499.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+8710103886037,Machine à café avec broyeur LatteGo EP2230/10 PHILIPS,PHILIPS,Cuisine,479.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+8720389000102,Cafetière L'Or Barista LM9012/60 Sublime Noir PHILIPS,PHILIPS,Cuisine,74.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+8720389016431,Machine à café avec broyeur EP0820/00 PHILIPS,PHILIPS,Cuisine,269.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+8720389043246,Cafetière Senseo Original HD7806/72 Noir PHILIPS,PHILIPS,Cuisine,79.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+0622356320757,"Friteuse sans huile Airfryer 6,6 L AF550EU NINJA",NINJA,Cuisine,229.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3045386373055,Friteuse semi-professionnelle FR338070 TEFAL,TEFAL,Cuisine,79.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3045386373161,Appareil à Gaufre Multifonction 3 plaques Amovibles Grill SW614831 TEFAL,TEFAL,Cuisine,79.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3045387294168,Multicuiseur Airfryer Multicook & Fry MZ7301F0 MOULINEX,MOULINEX,Cuisine,179.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3168430359147,"Appareil à raclette, plancha, crêpière 6 personnes RE151110 TEFAL",TEFAL,Cuisine,49.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3168430360198,"Appareil à raclette, plancha, crêpière 6 personnes Richesmonts RE12R810 TEFAL",TEFAL,Cuisine,59.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3700342476903,Multicuiseur Airfryer Cookeo+ Extra Crisp YY5355FB MOULINEX,MOULINEX,Cuisine,269.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+8720389060427,Friteuse sans huile NA156/60 Airfryer panier flexible 7.1L Bleu Série 1000 PHILIPS PHILIPS,PHILIPS,Cuisine,149.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3016661177200,Robot pâtissier QA160H1 MOULINEX,MOULINEX,Cuisine,129.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+7640143169764,Robot cuiseur multifonctions HKI-RBC-0725EU HELL'S KITCHEN,HELL'S KITCHEN,Cuisine,329.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3045380021051,Machine à bière - VB450E10 KRUPS,KRUPS,Cuisine,199.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3045386380084,Grille-pain Soleil LT300A10 Blanc MOULINEX,MOULINEX,Cuisine,29.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3045386381494,Grille-pain TL302110 Blanc MOULINEX,MOULINEX,Cuisine,34.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3508510083027,Batteur - FG770 NOC - FAGOR,FAGOR,Cuisine,39.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3616958792811,Micro-ondes gril 23L TMA23M-25 TOSHIBA,TOSHIBA,Cuisine,159.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3617702318967,Micro-ondes 20L SMO20LW-26 SIMPL,SIMPL,Cuisine,44.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3700902205042,Micro-ondes 20L 20MX80-L Blanc MEDEK,MEDEK,Cuisine,79.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3700902209941,Machine à granité MDSBL2408 MEDEK,MEDEK,Cuisine,199.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3838782655340,Micro-ondes gril 20L H20MOBP1G HISENSE,HISENSE,Cuisine,99.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3838782731990,Micro-ondes 20L H20MOBSD1H HISENSE,HISENSE,Cuisine,109.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+4242002922003,Mixeur clevermixx BOSCH,BOSCH,Cuisine,49.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+7290113764439,Machine à eau pétillante ART + 1 bouteille 1L noire SODASTREAM,SODASTREAM,Cuisine,109.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+7290116742366,Machine à eau pétillante GAIA + 1 bouteille 1L noire SODASTREAM,SODASTREAM,Cuisine,59.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+8003437626722,Micro-ondes 30 L MWO609WH WHIRLPOOL,WHIRLPOOL,Cuisine,149.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+8003437861475,Micro-ondes MWP251B WHIRLPOOL,WHIRLPOOL,Cuisine,159.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+8003437861802,Micro-ondes gril 20 L MWP103B WHIRLPOOL,WHIRLPOOL,Cuisine,139.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+8806095506975,Micro-ondes 23L MS23DG4504AT SAMSUNG,SAMSUNG,Cuisine,149.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+8710103949091,Cafetière Senseo Select CSA240/21 Noir PHILIPS,PHILIPS,Cuisine,69.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+8710103949121,Cafetière Senseo Select CSA240/91 Rouge PHILIPS,PHILIPS,Cuisine,69.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+8720389000249,Cafetière Senseo Original Plus CSA210/51 Gris PHILIPS,PHILIPS,Cuisine,74.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+8720389032097,Machine à café avec broyeur Baristina BAR300/60 Noir PHILIPS,PHILIPS,Cuisine,299.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3616958174488,Appareil à raclette et gril 2 personnes SRG2-24 SIMPL,SIMPL,Cuisine,14.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+7640143169771,Robot cuiseur multifonctions HKI-RBC-1025EU HELL'S KITCHEN,HELL'S KITCHEN,Cuisine,379.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3045380024571,Découpe légume Fresh Express MOULINEX,MOULINEX,Cuisine,49.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3045387294847,Bouilloire électrique Subito BY5S0DE0 MOULINEX,MOULINEX,Cuisine,39.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3045387295189,"Bouilloire sans-fil 1,7L 2400w Tanin MOULINEX",MOULINEX,Cuisine,39.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3045388553066,"Mini-hachoir Electrique Valentin 2-en-1, Puissant et Compact 855306 SEB",SEB,Cuisine,29.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3168437251574,Cake Factory KD804510 TEFAL,TEFAL,Cuisine,169.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3616957643695,Four à Pizza au Bois ou Charbon de bois Multifonction pour Extérieur sur Roues Bari HYBA,HYBA,Cuisine,139.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv
+3616958138435,Grille-pain ST870S-24 SIMPL,SIMPL,Cuisine,9.99,,True,carrefour,2026-08-08T18:41:28.585776+00:00,carrefour_cuisine.csv

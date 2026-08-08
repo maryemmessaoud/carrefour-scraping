@@ -181,5 +181,6 @@ class CuisineSpider(scrapy.Spider):
                         if promo else None
                     ),
                     "available": offer["attributes"]["availability"]["purchasable"],
+                    "seller_type": offer.get("subType"),  # "carrefour" ou autre (marketplace)
                 }
         return None

@@ -6,7 +6,7 @@ class JardinSpider(scrapy.Spider):
     name = "carrefour_jardin"
     category_url = "https://www.carrefour.fr/r/jardin"
     category_name = "Jardin"
-    max_pages = 10
+    max_pages = 50
 
     async def start(self):
         yield scrapy.Request(

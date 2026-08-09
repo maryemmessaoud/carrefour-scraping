@@ -6,7 +6,7 @@ class CarrefourSpider(scrapy.Spider):
     name = "carrefour_smartphones"
     category_url = "https://www.carrefour.fr/r/smartphones-objets-connectes"
     category_name = "Smartphones et Objets connectés"
-    max_pages = 10
+    max_pages = 50
 
     async def start(self):
         yield scrapy.Request(

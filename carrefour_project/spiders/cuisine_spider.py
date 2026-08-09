@@ -6,7 +6,7 @@ class CuisineSpider(scrapy.Spider):
     name = "carrefour_cuisine"
     category_url = "https://www.carrefour.fr/r/cuisine"
     category_name = "Cuisine"
-    max_pages = 10
+    max_pages = 50
 
     async def start(self):
         yield scrapy.Request(

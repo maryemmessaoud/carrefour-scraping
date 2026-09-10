@@ -2,7 +2,7 @@ pour lancer le scrapping : cela génère les fichiers .csv
 \carrefour_project\spiders 
 
 scrapy crawl carrefour_smartphones -o carrefour_smartphones.csv
-scrapy crawl carrefour_cuisine -o carrefour_cuisine.csv
+scrapy crawl carrefour_cuisine -O carrefour_cuisine.csv
 scrapy crawl carrefour_jardin -O carrefour_jardin.csv
 scrapy crawl carrefour_beaute_sante -O carrefour_beaute_sante.csv
 scrapy crawl carrefour_livres -O carrefour_livres.csv

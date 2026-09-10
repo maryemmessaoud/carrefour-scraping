@@ -6,7 +6,7 @@ class CuisineSpider(scrapy.Spider):
     name = "carrefour_cuisine"
     category_url = "https://www.carrefour.fr/r/cuisine"
     category_name = "Cuisine"
-    max_pages = 10
+    max_pages = 50
 
     async def start(self):
         yield scrapy.Request(
@@ -181,5 +181,6 @@ class CuisineSpider(scrapy.Spider):
                         if promo else None
                     ),
                     "available": offer["attributes"]["availability"]["purchasable"],
+                    "seller_type": offer.get("subType"),  # "carrefour" ou autre (marketplace)
                 }
         return None

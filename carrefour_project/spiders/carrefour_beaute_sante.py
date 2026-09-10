@@ -6,7 +6,7 @@ class BeauteSanteSpider(scrapy.Spider):
     name = "carrefour_beaute_sante"
     category_url = "https://www.carrefour.fr/r/beaute-sante"
     category_name = "Beauté et Santé"
-    max_pages = 10
+    max_pages = 50
 
     async def start(self):
         yield scrapy.Request(

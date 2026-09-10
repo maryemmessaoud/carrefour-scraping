@@ -96,7 +96,9 @@ def clean_brand(series: pd.Series):
 
     upper = out.str.upper()
     is_null_like = upper.isin({v.upper() for v in BRAND_NULL_VALUES}) | out.isna()
-    out = out.mask(is_null_like, pd.NA)
+    out = out.mask(is_null_like, "Non spécifié")
+    out = out.fillna("Non spécifié").str.strip()
+    out.loc[out == "",] = "Non spécifié"
 
     return out, int(n_mapped)
 

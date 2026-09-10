@@ -4,12 +4,12 @@ load_to_bigquery.py
 Charge les 5 CSV Carrefour (beaute_sante, cuisine, jardin, livres, smartphones)
 dans BigQuery, puis construit le modele en etoile complet :
   - staging.produits_raw          (donnees brutes concatenees)
-  - dwh_carrefour.Dim_MARQUE
-  - dwh_carrefour.Dim_CATEGORIE
-  - dwh_carrefour.Dim_VENDEUR
-  - dwh_carrefour.Dim_PRODUIT
-  - dwh_carrefour.Dim_TEMPS
-  - dwh_carrefour.Fact_OFFRES
+  - dwh_carrefour_scraping.Dim_MARQUE
+  - dwh_carrefour_scraping.Dim_CATEGORIE
+  - dwh_carrefour_scraping.Dim_VENDEUR
+  - dwh_carrefour_scraping.Dim_PRODUIT
+  - dwh_carrefour_scraping.Dim_TEMPS
+  - dwh_carrefour_scraping.Fact_OFFRES
 
 Prerequis :
   pip install --user google-cloud-bigquery pandas pandas-gbq db-dtypes
@@ -27,16 +27,16 @@ from google.cloud import bigquery
 # CONFIGURATION - a adapter
 # ============================================================
 PROJECT_ID = "houssemkhemiri-sandbox-khemiri"         
-DATASET_ID = "dwh_carrefour"           # nom du dataset cree a l'etape 4
+DATASET_ID = "dwh_carrefour_scraping"           # nom du dataset cree a l'etape 4
 STAGING_TABLE = f"{PROJECT_ID}.{DATASET_ID}.staging_produits_raw"
 
 # Chemin des CSV (uploades dans $HOME sur Cloud Shell)
 CSV_FILES = [
-    "carrefour_beaute_sante_clean.csv",
-    "carrefour_cuisine_clean.csv",
-    "carrefour_jardin_clean.csv",
-    "carrefour_livres_clean.csv",
-    "carrefour_smartphones_clean.csv",
+    "carrefour_beaute_sante_clean_(1).csv",
+    "carrefour_cuisine_clean_(1).csv",
+    "carrefour_jardin_clean_(1).csv",
+    "carrefour_livres_clean_(1).csv",
+    "carrefour_smartphones_clean_(1).csv",
 ]
 
 EAN_REGEX = re.compile(r"^\d{8}$|^\d{12,14}$")  # EAN8, UPC-12, EAN13, GTIN14

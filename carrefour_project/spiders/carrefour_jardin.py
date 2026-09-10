@@ -220,5 +220,5 @@ class JardinSpider(scrapy.Spider):
                 promo["messageArgs"]["discountedPrice"] if promo else None
             ),
             "available": available,
-            "seller_type": chosen.get("subType"),  # "carrefour" ou autre (marketplace)
+            "seller_type": chosen.get("subType"),  
         }
